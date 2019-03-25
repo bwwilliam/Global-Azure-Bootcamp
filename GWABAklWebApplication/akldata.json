@@ -19,7 +19,7 @@
 
   "Callout": {
     "Text": "Click Here to Reserve Your Place Today!",
-    "Link": "https://aka.ms/AzureBootcampAKL19",
+    "Link": "https://www.eventbrite.co.nz/e/global-azure-bootcamp-auckland-the-sixth-year-tickets-57575802776",
     "Type": "default"
   },
 
@@ -219,17 +219,17 @@
         {
           "SessionId": "ITPRO1",
           "Time": "10:00 AM - 11:15 AM",
-          "Title": "TBA",
-          "Room": "Description TBA",
+          "Title": "Azure Journey – Walk the walk",
+          "Room": "Azure is innovating and pioneering information technology, impacting the way we buy, build and use IT services. Is cloud a philosophy, a giant somebody’s computer or an innovation hub? How should we start our journey to the new, innovative and fast-changing universe of the cloud using Cloud Framework, Governance to Migration? Let’s talk!",
           "Speaker": {
-            "Name": "Presenter TBA",
-            "Organization": "Org TBA",
-            "Description": "Description TBA",
-            "ImageUrl": "/images/gravatar.png",
+            "Name": "Ajay Nabh",
+            "Organization": "Senior Cloud Consultant, Umbrellar",
+            "Description": "Ajay has an extensive background with over 18 Years in IT ranging from Business Support to IT Solution design and consulting. He has broad experience that extends right across the infrastructure stack along with Azure and Azure Stack. His role as Senior Cloud Consultant requires leadership in the use of technology and its alignment to business and enjoys the challenge of applying his knowledge to customer business challenges.",
+            "ImageUrl": "/images/AjayNabh.jpg",
             "Social": {
-              "Twitter": "",
+              "Twitter": "https://twitter.com/ajaynabh1",
               "Website": "",
-              "LinkedIn": ""
+              "LinkedIn": "https://linkedin.com/in/ajaynabh"
             }
           }
         },
@@ -291,17 +291,17 @@
         {
           "SessionId": "ITPRO4",
           "Time": "3:15 PM - 4:30 PM",
-          "Title": "TBA",
-          "Room": "Description TBA",
+          "Title": "9 ways to completely mess up Security of your Azure Platform",
+          "Room": "A common misconception is that moving to the cloud means your data and your platform is completely secure. DON’T Worry, it is not. In this session, I intent to show you 9 different topics, you shouldn’t do so that you can keep your Microsoft Azure platform remain vulnerable and provide all the surface area required for a large scale attack. Finally something in common to your On-premises platform.",
           "Speaker": {
-            "Name": "Presenter TBA",
-            "Organization": "Org TBA",
-            "Description": "Description TBA",
-            "ImageUrl": "/images/gravatar.png",
+            "Name": "Aben Samuel",
+            "Organization": "Principal Consultant and Product Manager at Fusion5",
+            "Description": "As a Cloud consultant for the past 6 years, I have seen the journey and sentiment about moving to the cloud of many customers. It is no longer a 'should we' question, but rather a 'when' question. As a Principal Consultant leading a team of Cloud Architects and Engineers, I have had the unique front seat to watching this transform the way our clients do business. As a Product Manager, I have the unique opportunity to listen to some of my really smart colleagues and combine that with what my customers need which helps me shape Fusion5 journey with Cloud Technology, especially Microsoft Azure. ",
+            "ImageUrl": "/images/AbenSamuel.jpg",
             "Social": {
-              "Twitter": "",
-              "Website": "",
-              "LinkedIn": ""
+              "Twitter": "https://twitter.com/neop26",
+              "Website": "http://wellytonian.com ",
+              "LinkedIn": "https://www.linkedin.com/in/abensamuel/"
             }
           }
         },
